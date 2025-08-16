@@ -1,0 +1,1 @@
+# Neste algorítmo, crie uma variável que armazene uma string, e lista_de_compras é uma lista que armazena várias strings.
